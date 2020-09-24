@@ -1,0 +1,2 @@
+Git es un software de control de versiones distribuido, almacena las versiones en repositorios locales
+
